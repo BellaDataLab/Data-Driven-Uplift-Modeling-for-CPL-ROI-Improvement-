@@ -64,6 +64,9 @@ The project involves:
 ## 🧠 Author
 
 Prepared by: **Yi-Chieh (Bella) Kuo**  
-📍 Los Angeles, CA  
+📍 Los Angeles, CA
+🎓 USC MSBA 2023
 📧 yichiehk@marshall.usc.edu 
 🔗 [LinkedIn](https://www.linkedin.com/in/yi-chieh-kuo/)
+
+
